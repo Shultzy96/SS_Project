@@ -1,0 +1,254 @@
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Shultz Studios.dll.config
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Shultz Studios.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Shultz Studios.pdb
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\csc.exe
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\csc.exe.config
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\csc.rsp
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\csi.exe
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\csi.exe.config
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\csi.rsp
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.AppContext.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Console.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\vbc.exe
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\vbc.exe.config
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\vbc.rsp
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Antlr3.Runtime.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\DataAccessLayer.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Newtonsoft.Json.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Helpers.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Mvc.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Optimization.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Razor.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\WebGrease.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\DataAccessLayer.pdb
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Helpers.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Mvc.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Optimization.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.Razor.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Newtonsoft.Json.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Antlr3.Runtime.pdb
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csprojAssemblyReference.cache
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csproj.CoreCompileInputs.cache
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csproj.CopyComplete
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Shultz Studios.dll.config
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Shultz Studios.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Shultz Studios.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csc.exe
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csc.exe.config
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csc.rsp
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csi.exe
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csi.exe.config
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csi.rsp
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.AppContext.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Console.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\vbc.exe
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\vbc.exe.config
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\vbc.rsp
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Antlr3.Runtime.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\BusinessLayer.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\DataAccessLayer.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Newtonsoft.Json.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Helpers.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Mvc.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Optimization.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Razor.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\UtilityLager.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\WebGrease.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\BusinessLayer.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\DataAccessLayer.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\UtilityLager.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Helpers.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Mvc.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Optimization.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Razor.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Newtonsoft.Json.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Antlr3.Runtime.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csprojAssemblyReference.cache
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csproj.CoreCompileInputs.cache
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csproj.CopyComplete
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Shultz Studios.dll.config
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Shultz Studios.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Shultz Studios.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csc.exe
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csc.exe.config
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csc.rsp
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csi.exe
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csi.exe.config
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\csi.rsp
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.AppContext.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Console.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\vbc.exe
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\vbc.exe.config
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\vbc.rsp
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Antlr3.Runtime.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\BusinessLayer.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\DataAccessLayer.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Newtonsoft.Json.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Helpers.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Mvc.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Optimization.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Razor.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\UtilityLager.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\WebGrease.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\BusinessLayer.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\DataAccessLayer.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\UtilityLager.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Helpers.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Mvc.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Optimization.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.Razor.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Newtonsoft.Json.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Antlr3.Runtime.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csprojAssemblyReference.cache
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csproj.CoreCompileInputs.cache
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.csproj.CopyComplete
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\Shultz Studios\obj\Debug\Shultz Studios.pdb

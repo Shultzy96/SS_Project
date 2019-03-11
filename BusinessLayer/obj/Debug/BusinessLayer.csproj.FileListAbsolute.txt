@@ -1,0 +1,18 @@
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\UtilityLager.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\UtilityLager.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\UtilityLager.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\bin\Debug\UtilityLager.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,24 @@
+C:\Users\Shultzy\source\repos\Shultz Studios\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Shultzy\source\repos\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Shultzy\source\repos\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shultzy\source\repos\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Shultzy\source\repos\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\UtilityLager.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\UtilityLager.pdb
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Shultzy\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\UtilityLager.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\bin\Debug\UtilityLager.pdb
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dakota Shultz\Documents\Capstone\Shultz Studios\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
